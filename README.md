@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=shipping+products+%E2%80%94+not+just+writing+code;full-stack+%C2%B7+iOS+%C2%B7+AI%2FML+%C2%B7+infrastructure;from+idea+to+App+Store+to+production" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=E5E7EB&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=shipping+products+%E2%80%94+not+just+writing+code;full-stack+%C2%B7+iOS+%C2%B7+AI%2FML+%C2%B7+infrastructure;from+idea+to+App+Store+to+production" alt="Typing SVG" /></a>
 
 <br/>
 
