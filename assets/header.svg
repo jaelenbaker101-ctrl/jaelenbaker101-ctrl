@@ -75,12 +75,12 @@
 
   <!-- Name -->
   <text x="450" y="85" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="42" font-weight="700" fill="url(#textGrad)" letter-spacing="1">
-    Nicolas Dos Santos
+    Jaelen Baker
   </text>
 
   <!-- Subtitle -->
   <text x="450" y="125" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="url(#accentGrad)" letter-spacing="3" font-weight="400">
-    BUILDER  ·  FOUNDER  ·  ENGINEER
+    BUILDER  ·  ENGINEER
   </text>
 
   <!-- Animated underline -->
