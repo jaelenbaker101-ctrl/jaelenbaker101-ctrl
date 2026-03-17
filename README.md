@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Nicolas Dos Santos — Builder · Founder · Engineer"/>
+<img src="assets/header.svg" width="100%" alt="Jaelen Baker US Santa Clara — Builder · Engineer"/>
 
 <br/>
 
