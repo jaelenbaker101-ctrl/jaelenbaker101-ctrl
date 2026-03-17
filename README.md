@@ -6,32 +6,16 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=E5E7EB&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=shipping+products+%E2%80%94+not+just+writing+code;full-stack+%C2%B7+iOS+%C2%B7+AI%2FML+%C2%B7+infrastructure;from+idea+to+App+Store+to+production" alt="Typing SVG" /></a>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas2007/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndossantos@ucsd.edu)
-[![Dressr](https://img.shields.io/badge/Dressr-000000?style=for-the-badge&logo=apple&logoColor=white)](https://dressr.app/)
-
 </div>
 
 <br/>
+All of my projects are available in my repository.
 
-I ship products across the full stack — native iOS apps on the App Store, real-time systems with sub-second pipelines, and autonomous AI agents running 24/7 on bare metal. Math-CS @ UC San Diego. SWE @ UCSD ITS. Cyber Defense Ops @ CA Air National Guard.
+I specialize in building full-stack AI systems and automation workflows, with experience across technologies such as N8N, ReactJS, VueJS, NextJS, and FastAPI.
 
-<div align="center">
-<img src="assets/wave-divider.svg" width="100%" alt=""/>
-</div>
+My work focuses on designing and deploying scalable, real-time applications with sub-second performance, as well as developing autonomous AI agents for practical, production-level use cases.
 
-## What I've Shipped
-
-| Project | What It Does | Stack | Status |
-|---------|-------------|-------|--------|
-| **Dressr** | AI-powered virtual try-on — snap a photo, see clothes on you | SwiftUI · FastAPI · MediaPipe · Stripe | Live on App Store, B2B signed |
-| **CTRL** | Screen time & parental controls for iOS | SwiftUI · Firebase · ScreenTime API · RevenueCat | In production |
-| **EcoMind** | AI carbon footprint tracker for dev workflows | Python · Claude API · MCP | SF Hacks 2026 — Best Climate Hack |
-| **[World Monitor](https://github.com/nicholasgriffintn/world-monitor)** | Real-time OSINT dashboard with multi-domain search | TypeScript · WebSockets · Redis · deck.gl · MapLibre | Open source contributor |
-| **Claude Code Command Center** | VS Code extension to manage Claude Code agents, workflows, and costs | TypeScript · React · FastAPI · SQLite · MCP | Active development |
-| **Jarvis** | 24/7 autonomous AI agents on Raspberry Pi 5 | n8n · Claude API · Docker · NVMe | Running in production |
+Background in Mathematics and Computer Science, based in Santa Clara.
 
 <div align="center">
 <img src="assets/wave-divider.svg" width="100%" alt=""/>
@@ -82,6 +66,6 @@ I ship products across the full stack — native iOS apps on the App Store, real
 
 <div align="center">
 
-**Building something interesting? [Let's talk.](https://www.linkedin.com/in/nicolas2007/)**
+**Building something interesting? [Let's talk.](jaelenbaker101@gmail.com)**
 
 </div>
