@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Jaelen Baker US Santa Clara — Builder · Engineer"/>
+<img src="assets/header.svg" width="100%" alt="Jaelen Baker JP Tokyo — Builder · Founder · Engineer"/>
 
 <br/>
 
